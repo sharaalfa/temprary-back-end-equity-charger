@@ -2,7 +2,8 @@ get /target/
 !.mvn/wrapper/maven-wrapper.jar
 *!.mvn/wrapper/maven-wrapper.jar
 *target
-*lib
+
+*Smart-mobileApp-0b3b4f826861.json
 ### STS ###
 .apt_generated
 .classpath
